@@ -1,0 +1,19 @@
+Persmission:
+  # Permissions en fonction des grades
+  Admin:
+  - "addPerm.use"
+  - "admin.use"
+  Modo:
+  - "addPerm.use"
+  - "modo.use"
+  Dev:
+  - "addPerm.use"
+  - "dev.use"
+  Builder:
+  - "addPerm.use"
+  - "builder.use"
+  Joueur:
+  - "addPerm.use"
+  - "joueur.use"
+messages:
+    

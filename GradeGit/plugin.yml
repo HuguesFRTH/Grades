@@ -1,0 +1,12 @@
+name: Rank
+version: 1.0
+author: Ixion
+main: fr.ixion.rank.Main
+commands:
+  setRank:
+    description: Choix du grade.
+    permission: setRank.use
+  setPerm:
+    description: Ajout d'une permission.
+    permission: addPerm.use
+
